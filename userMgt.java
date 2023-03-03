@@ -3,7 +3,6 @@ simon
 john 
 Busola
 Ayo
-jagaban
 datti
 peter
 obi 
